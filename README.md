@@ -51,11 +51,11 @@ Includes *schema creation, sample data insertion, indexes, and 40+ analytical SQ
 
 ### Installation
 
-1. *Clone or Download the Project*
-   bash
-   git clone https://github.com/yourusername/online-retail-sales-analysis.git
-   cd online-retail-sales-analysis
-   
+1. Clone or Download the Project
+```bash
+git clone https://github.com/rohittkale/online-retail-sales-analysis.git
+cd online-retail-sales-analysis
+```
 
 2. *Run the SQL Script*
    sql
