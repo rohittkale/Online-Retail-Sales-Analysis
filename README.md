@@ -1,7 +1,7 @@
 # 📊 Online Retail Sales Analysis – Complete SQL-Based Data Model & BI Queries
 
 A comprehensive *MySQL-based Online Retail Sales Analysis System* that demonstrates professional database design, indexing, data constraints, and advanced business intelligence (BI) queries.  
-Includes *schema creation, **sample data insertion, **indexes, and **40+ analytical SQL queries* for customer insights, product performance, sales trends, and advanced reporting.
+Includes *schema creation, sample data insertion, indexes, and 40+ analytical SQL queries* for customer insights, product performance, sales trends, and advanced reporting.
 
 ***
 
